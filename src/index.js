@@ -3,7 +3,7 @@
   function component() {
       var element = document.createElement('div');
 
-      element.innerHTML = myName('Cody');
+      element.innerHTML = myName('Jakub!!');
       return element;
   }
 
